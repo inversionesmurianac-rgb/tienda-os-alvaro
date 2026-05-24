@@ -1,0 +1,19 @@
+[
+  {
+    "nombre": "Álvaro",
+    "teléfono": "622146452",
+    "email": "prueba@test.com",
+    "tipo_contenedor": "Contenedor 40 pies High Cube",
+    "texto_original_tipo_contenedor": "quiero un contenedor 40 hc",
+    "codigo_postal_entrega": "28001",
+    "ciudad_entrega": "Madrid",
+    "uso": "almacenaje",
+    "urgencia": "este mes",
+    "presupuesto_aproximado": null,
+    "prioridad_lead": "caliente",
+    "precio_estimado": 3150,
+    "resumen_comercial": "Cliente solicita 40HC para almacenaje en Madrid.",
+    "siguiente_accion": "Llamar y confirmar stock + fecha de entrega.",
+    "consentimiento_rgpd": "sí"
+  }
+]
